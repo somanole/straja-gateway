@@ -271,8 +271,8 @@ Multi-stage distroless image. ONNX Runtime included. Runs as non-root (UID 65532
 
 | Repo | Purpose |
 |------|---------|
-| [straja-agent](https://github.com/straja-ai/straja-agent) | Vault-first AI agent runtime |
-| [straja-vault](https://github.com/straja-ai/straja-vault) | Document store, search, and execution sandbox |
+| [straja-agent](https://github.com/somanole/straja-agent) | Vault-first AI agent runtime |
+| [straja-workspace](https://github.com/somanole/straja-workspace) | Agent workspace - Document store, search, and execution sandbox |
 
 ## License
 
