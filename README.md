@@ -1,5 +1,7 @@
 # Straja Gateway
 
+![Straja Gateway console](assets/console.png)
+
 Straja Gateway is a local AI security gateway. It sits between your applications and LLM providers (OpenAI, Claude), inspecting every request and response with on-device ML classifiers and regex pattern matching. Nothing leaves your machine for analysis.
 
 Drop-in compatible with the OpenAI and Claude SDKs — change the base URL, use a Straja API key, keep everything else the same.
